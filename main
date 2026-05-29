@@ -5,3 +5,8 @@ Password
 Navify
 
 Password: test@123
+
+
+  DB_HOST=db.navify.com
+  DB_PASSWORD=xK9mQ2vRp8Yw3Z
+  AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
